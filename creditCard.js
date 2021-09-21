@@ -1,5 +1,5 @@
 
-// Making a valid credit card number checker
+// Making a valid credit card number checker that I implemented as a Codecademy project.
 // The functions are in below:
 
 
